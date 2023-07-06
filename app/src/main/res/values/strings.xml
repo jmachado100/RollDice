@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RollDice</string>
+    <string name="roll">Roll</string>
+    <string name="roll_1">Roll 1: %1$d times</string>
+    <string name="roll_2">Roll 2: %1$d times</string>
+    <string name="roll_3">Roll 3: %1$d times</string>
+    <string name="roll_4">Roll 4: %1$d times</string>
+    <string name="roll_5">Roll 5: %1$d times</string>
+    <string name="roll_6">Roll 6: %1$d times</string>
+</resources>
